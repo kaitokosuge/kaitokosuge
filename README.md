@@ -5,5 +5,5 @@
 <a href="https://kaitokosuge.github.io/Space/"><img style="width:50px" src="https://kaitokosuge.github.io/Space/img/tonp.png"/></a>
 <a href="https://kaitokosuge.github.io/Space/"><img style="width:50px" src="https://kaitokosuge.github.io/Space/img/tonr.png"/></a>
 #### Frequently Used Technologies
-<img src="https://skillicons.dev/icons?i=typescript"/><img src="https://skillicons.dev/icons?i=react"/><img src="https://skillicons.dev/icons?i=tailwindcss"/><img src="https://skillicons.dev/icons?i=remix"/>
+<img src="https://skillicons.dev/icons?i=typescript"/><img src="https://skillicons.dev/icons?i=react"/><img src="https://skillicons.dev/icons?i=tailwindcss"/><img src="https://skillicons.dev/icons?i=remix"/><img src="https://skillicons.dev/icons?i=python"/><img src="https://skillicons.dev/icons?i=laravel"/>
 
