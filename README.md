@@ -1,5 +1,5 @@
 <h2>MAZE rebuild</h2>
-<a href="https://level-cloak-857.notion.site/MAZE-c6b62e6f7b544399a0565c923a049802">開発設計書→</a><br/>
+
 <h2>various</h2>
 <strong>MAZE blog:</strong> <a href="https://maze-tech-blog.com/" style="color:red">https://maze-tech-blog.com/</a>　<strong>PopChart:</strong> <a href="https://pop-chart.vercel.app/">https://pop-chart.vercel.app/</a> <strong>Record.:</strong> <a href="https://record-teal.vercel.app/">https://record-teal.vercel.app/</a>
 
