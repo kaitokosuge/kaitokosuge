@@ -1,5 +1,8 @@
 <h2>MAZE rebuild</h2>
 <a href="https://www.notion.so/MAZE-rebuild-69d5ee21a33a4ca69bb80c6a96d23c18">設計書</a>
+
+<h2>Qiita</h2>
+<a href="https://qiita.com/kaitoppp">kaitokosuge`s Qiita→</a>
 <h2>various</h2>
 <strong>Record.:</strong> <a href="https://record-teal.vercel.app/">https://record-teal.vercel.app/</a>
 
