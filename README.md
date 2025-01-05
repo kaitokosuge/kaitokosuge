@@ -1,6 +1,6 @@
 <h2>service</h2>
 <ul>
-<li><a href="https://maze-p-quiz-272cda03fda0.herokuapp.com/">プログラミングクイズアプリ:MAZE</a><br/>
+<li><a href="https://www.fruitsbase.com/">プログラミング・ITクイズアプリ:Fruitsbase</a><br/>
 <p>気軽さなら日本一のプログラミング学習アプリ💻個人開発</p></li>
  <li><a href="https://docs.google.com/presentation/d/1AMVFUcL8zg96vkcLiMXWWVwsEZDERcwEqKZJ6WxsQUQ/edit#slide=id.g27f49a57ce3_0_243">MBTIを楽しむSNS:Pots</a><br/>
 <p>MBTIの面白さを体感できるSNS！葛尾村ハッカソン スカラパートナーズ賞</p>
